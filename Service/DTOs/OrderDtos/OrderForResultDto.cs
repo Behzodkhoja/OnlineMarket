@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnlineMagazin.Domain.Enums
+namespace OnlineMagazin.Service.DTOs.OrderDto
 {
-    public class OrderStatus
+    public class OrderForResultDto
     {
     }
 }

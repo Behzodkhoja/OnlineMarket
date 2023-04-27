@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnlineMagazin.Service.DTOs
+namespace OnlineMagazin.Service.DTOs.ProductDtos
 {
-    internal class UserForResultDto
+    public class ProductForResultDto
     {
     }
 }

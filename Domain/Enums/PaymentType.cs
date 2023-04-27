@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OnlineMagazin.Domain.Enums
 {
-    internal class PaymentType
+    public class PaymentType
     {
     }
 }

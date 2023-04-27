@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnlineMagazin.Domain.Enums
+namespace OnlineMagazin.Service.DTOs.ProductDtos
 {
-    public class OrderStatus
+    public class ProductForCreationDto
     {
     }
 }

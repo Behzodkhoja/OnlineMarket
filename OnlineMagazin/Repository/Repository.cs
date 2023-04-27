@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OnlineMagazin.DALL.Repository
 {
-    internal class Repository
+    public class Repository
     {
     }
 }

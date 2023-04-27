@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OnlineMagazin.DALL.DbContext
 {
-    internal class OnlineMagazinDbContext
+    public class OnlineMagazinDbContext
     {
     }
 }
